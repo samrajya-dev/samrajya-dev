@@ -1,12 +1,15 @@
 - 👋 Hi, I’m @samrajya-dev
-- 👀 I’m interested in Startups | DevOps | Cloud | Fullstack | Crypto | Story Writing | Journaling | Blockchain
-- 🌱 I’m currently learning Nature
-- 💞️ I’m looking to collaborate with anyone who wants to make Mother Earth Better more than Mars.
+- 👀 I’m interested in Startups | DevOps | Fullstack | AI/ML | Crypto | Blockchain | Story Writing | Journaling
+- 🧠 Building second brain.
+- 🌱 Love Gardening.
+- 💞️ I am looking to collaborate with anyone who is striving for a carbon neutral future and who has the same mindset of creating a product to make a big impact.
 - 📫 How to reach me ...
-- www.samrajya.dev
-- www.twitter.com/samrajya22
-- www.instagram.com/samrajya.dev
-- www.linkedin.com/in/samrajya
+- W : www.samrajya.dev
+- E : hello@samrajya.dev | mr.samrajya@gmail.com
+- T : https://twitter.com/samrajya22
+- L : https://linkedin.com/in/samrajya
+- I : https://instagram.com/samrajya.dev
+- M : https://mas.to/@psmj
 
 <!---
 samrajya-dev/samrajya-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
