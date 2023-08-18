@@ -1,15 +1,16 @@
-- 👋 Hi, I’m @samrajya-dev
-- 👀 I’m interested in Startups | DevOps | Fullstack | AI/ML | Crypto | Blockchain | Story Writing | Journaling
-- 🧠 Building second brain.
-- 🌱 Love Gardening.
-- 💞️ I am looking to collaborate with anyone who is striving for a carbon neutral future and who has the same mindset of creating a product to make a big impact.
-- 📫 How to reach me ...
-- W : www.samrajya.dev
-- E : hello@samrajya.dev | mr.samrajya@gmail.com
-- T : https://twitter.com/samrajya22
-- L : https://linkedin.com/in/samrajya
-- I : https://instagram.com/samrajya.dev
-- M : https://mas.to/@psmj
+# Hi, I'm Samrajya 👋🏾 👩🏾‍💻
+
+- I'm a software engineer passionate about making contributions to open-source more approachable, creating technology to empower people, and building community.
+- Building second brain. 🧠
+- I enjoy working in DevOps, Fullstack, and Journaling. 👀
+
+## Connect with me online 🌎:
+- Sharing my learning journey on <a href="https://x.com/samrajya_dev" target="_blank"> X.com</a> and <a href="https://samrajya.dev" target="_blank">samrajya.dev</a> 📹 ✍🏾
+- Exploring interactive ideas on <a href="https://codepen.io/samjsx" target="_blank"> Codepen</a> 🏓
+- Sharing updates and insights on <a href="https://www.linkedin.com/in/samrajya/" target="_blank">LinkedIn</a> 💼
+- Reach out via <a href="mailto:hello@samrajya.dev" target="_blank">Email</a>
+- Connecting on <a href="https://instagram.com/samrajya.dev" target="_blank">Instagram</a>
+- Also available on <a href="https://mas.to/@psmj" target="_blank">Mas.to</a>
 
 <!---
 samrajya-dev/samrajya-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
