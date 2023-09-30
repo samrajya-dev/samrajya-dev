@@ -1,6 +1,7 @@
+
 # Hi, I'm Samrajya 👋🏾 👩🏾‍💻
 
-- I'm a software engineer passionate about making contributions to open-source more approachable, creating technology to empower people, and building community.
+- I'm a software engineer passionate about creating things. Contributing to open-source, adding value to the lives of millions more people, creating technology to empower people and building communities.
 - Building second brain. 🧠
 - I enjoy working in DevOps, Fullstack, and Journaling. 👀
 
@@ -16,3 +17,4 @@
 samrajya-dev/samrajya-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samrajya-dev&label=Profile%20views&color=0e75b6&style=flat" alt="samrajya-dev" /> </p>
