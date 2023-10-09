@@ -1,6 +1,5 @@
 
-# <div align="center"><h1>˗ˏˋJΛYˎˊ</p>
-  <h1>SΛMRΛJYΛ</h1></div>
+# ˗ˏˋSΛMRΛJYΛˎˊ
 
 - I'm a software engineer passionate about creating things. Contributing to open-source, adding value to the lives of millions more people, creating technology to empower people and building communities.
 - Building second brain. 🧠
