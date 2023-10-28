@@ -1,4 +1,3 @@
-
 # ˗ˏˋSΛMRΛJYΛˎˊ
 
 - I'm a software engineer passionate about creating things. Contributing to open-source, adding value to the lives of millions more people, creating technology to empower people and building communities.
@@ -57,3 +56,5 @@ You can click the Preview link to take a look at your changes.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samrajya-dev&show_icons=true&locale=en&layout=compact"/>
 
 /-->
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samrajya-dev" alt="samrajya-dev"/></a> </p>
