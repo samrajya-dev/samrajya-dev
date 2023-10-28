@@ -5,6 +5,15 @@
 - Building second brain. 🧠
 - I enjoy working in DevOps, Fullstack, and Journaling. 👀
 
+[![@samrajya-dev's Holopin board](https://holopin.me/samrajyadev)](https://holopin.io/@samrajyadev)
+
+```js
+{
+  "name": "Samrajya P.",
+  "skills":["javascript","java","c++","SQL"]
+}
+```
+
 ## Connect with me online 🌎:
 - Sharing my learning journey on <a href="https://x.com/samrajya_dev" target="_blank"> X.com</a> and <a href="https://samrajya.dev" target="_blank">samrajya.dev</a> 📹 ✍🏾
 - Exploring interactive ideas on <a href="https://codepen.io/samjsx" target="_blank"> Codepen</a> 🏓
