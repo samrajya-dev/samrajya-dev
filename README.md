@@ -58,3 +58,19 @@ You can click the Preview link to take a look at your changes.
 /-->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samrajya-dev" alt="samrajya-dev"/></a> </p>
+
+
+
+
+
+
+[![Dev's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=samrajya-dev&bg_color=080205&color=e5d2e3&line=ffffff&point=6a6262&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+    
+<p align="center">
+  <a href="https://github.com/samrajya-dev">
+    <img src="https://komarev.com/ghpvc/?username=samrajya-dev" alt="page views" />
+  </a>
+</p>
+
