@@ -64,8 +64,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![Dev's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=samrajya-dev&bg_color=080205&color=e5d2e3&line=ffffff&point=6a6262&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Dev's Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=samrajya-dev&bg_color=ffffff&color=000000&line=7cc214&point=000000&area=true&hide_border=true)](https://github.com/samrajya-dev/)
 <br/>
     
 <p align="center">
